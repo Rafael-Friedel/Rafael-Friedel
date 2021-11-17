@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Rafael-Friedel
-- 👀 I’m interested in Conhecer pessoas na área Progamação de software
-- 🌱 I’m currently learning Fundamentos de Desenvolvimento Web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me RafaFriedelDev@outlook.com
-
-<!---
-Rafael-Friedel/Rafael-Friedel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá,  podem me chamar de Rafa, sou estudante de DEsenvolvimento Web Na Trybe. Iniciei o curso em Novembro, e pretendo me tornar um full stack. 
+Gosta de praticar todo tipo de esporte, passar momentos familía e de vez em quando jogar um futebolzinho com os amigos. 
