@@ -1,2 +1,5 @@
-Olá,  podem me chamar de Rafa, sou estudante de Desenvolvimento Web Na Trybe. Iniciei o curso em Novembro, e pretendo me tornar um full stack. 
-Gosta de praticar todo tipo de esporte, passar momentos familía e de vez em quando jogar um futebolzinho com os amigos. 
+Olá,  podem me chamar de Rafa, 
+
+Sou estudante de Desenvolvimento Web Na Trybe. Iniciei o curso em Novembro 2021. 
+
+Em transição de carreira, buscando novos desafios e objetivos.
