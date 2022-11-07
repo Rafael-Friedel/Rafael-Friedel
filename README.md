@@ -5,10 +5,8 @@ Full Stack development student at Trybe
 ---------------------------------------
 
 * 🌍  I'm based in Blumenau, SC
-* 🖥️  See my portfolio at [MyPortfolio](http://rafael-friedel.github.io/portfolio)
 * ✉️  You can contact me at [rafafriedel@hotmail.com](mailto:rafafriedel@hotmail.com)
-* 🧠  I'm learning MySQL
-
+* 🧠  I'm learning Python and data scraping
 ### Skills
 
 <p align="left">
