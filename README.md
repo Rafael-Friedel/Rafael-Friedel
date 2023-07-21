@@ -3,8 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer Full Stack
 ------------------------
+👋 Olá! Sou um entusiasta da tecnologia, apaixonado por minha família e um desenvolvedor de software em constante evolução! 💻 Com uma sede insaciável de conhecimento, estou sempre em busca das mais recentes tendências e técnicas para aprimorar minhas habilidades. Além de ser alguém feliz e otimista, prezo pela dedicação e criatividade em tudo o que faço.
 
-Comecei minha carreira profissional aos 16 anos, com isso desde cedo aprendi a ter responsabilidade e resiliência. Aos 27 anos de idade conheci a área de desenvolvimento através de familiares que atuam na área. Comecei a estudar na Trybe em 2021, onde me formei em Front-End e Back-End.
+Meu compromisso com o desenvolvimento de software é guiado pela paixão e o desejo de criar soluções eficientes e inovadoras. 🚀 Adoro enfrentar desafios e resolver problemas complexos, pois acredito que cada obstáculo é uma oportunidade de aprendizado e crescimento.
+
+Fora do mundo digital, gosto de manter uma vida ativa e saudável, praticando esportes regularmente. ⚽️🏀 Enxergo no esporte uma forma de manter o equilíbrio e a disciplina, características essenciais também para o desenvolvimento de software.
+
+Se você busca um profissional dedicado, comprometido com o desenvolvimento contínuo e que traz consigo uma atitude positiva, estou pronto para contribuir com sua equipe e agregar valor aos seus projetos. Estou ansioso para fazer parte do seu time e levar nossas ideias ao próximo nível!
+
+#DesenvolvedorDeSoftware #Inovação #ApaixonadoPorTecnologia #TrabalhoEmEquipe #SempreAprendendo
+
 
 *   🌍  I'm based in Santa Catarina, Brasil
 *   ✉️  You can contact me at [rafafriedel@hotmail.com](mailto:rafafriedel@hotmail.com)
