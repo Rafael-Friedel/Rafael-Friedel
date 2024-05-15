@@ -3,20 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer Full Stack
 ------------------------
-👋 Olá! Sou um entusiasta da tecnologia, apaixonado por minha família e um desenvolvedor de software em constante evolução! 💻 Com uma sede insaciável de conhecimento, estou sempre em busca das mais recentes tendências e técnicas para aprimorar minhas habilidades. Além de ser alguém feliz e otimista, prezo pela dedicação e criatividade em tudo o que faço.
+Desenvolvedor Front-End com experiência em React desde 2021. Atualmente, faço parte da equipe da ED3 Digital, uma empresa especializada em e-commerce, onde desenvolvemos soluções utilizando plataformas como VTEX-io e Deco.cx.
 
-Meu compromisso com o desenvolvimento de software é guiado pela paixão e o desejo de criar soluções eficientes e inovadoras. 🚀 Adoro enfrentar desafios e resolver problemas complexos, pois acredito que cada obstáculo é uma oportunidade de aprendizado e crescimento.
+No meu dia a dia, trabalho com tecnologias como React, Tailwind, Stitches, TypeScript, JavaScript, HTML , CSS e Node.js. Tenho um papel fundamental na manutenção e aprimoramento de componentes reutilizáveis, além de contribuir para a criação de novas funcionalidades e a estilização das páginas conforme o design proposto no Figma.
 
-Fora do mundo digital, gosto de manter uma vida ativa e saudável, praticando esportes regularmente. ⚽️🏀 Enxergo no esporte uma forma de manter o equilíbrio e a disciplina, características essenciais também para o desenvolvimento de software.
-
-Se você busca um profissional dedicado, comprometido com o desenvolvimento contínuo e que traz consigo uma atitude positiva, estou pronto para contribuir com sua equipe e agregar valor aos seus projetos. Estou ansioso para fazer parte do seu time e levar nossas ideias ao próximo nível!
-
-#DesenvolvedorDeSoftware #Inovação #ApaixonadoPorTecnologia #TrabalhoEmEquipe #SempreAprendendo
+Sou reconhecido pela minha habilidade de comunicação e pela minha abertura para receber e incorporar feedbacks construtivos. Além disso, sou apaixonado pela área da tecnologia devido à constante oportunidade de aprendizado e crescimento.
 
 
 *   🌍  I'm based in Santa Catarina, Brasil
 *   ✉️  You can contact me at [rafafriedel@hotmail.com](mailto:rafafriedel@hotmail.com)
-*   🧠  I'm learning JAVA in DEVS+BLU
 *   💼  I'm working ED3Digital
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
