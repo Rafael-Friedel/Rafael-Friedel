@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer Full Stack
 ------------------------
-Desenvolvedor Front-End com experiência em React desde 2021. Atualmente, faço parte da equipe da Cadastra.
+Desenvolvedor Front-End com experiência em React desde 2021. Atualmente, faço parte da equipe Cadastra.
 
 *   🌍  I'm based in Santa Catarina, Brasil
 *   ✉️  You can contact me at [rafafriedel@hotmail.com](mailto:rafafriedel@hotmail.com)
