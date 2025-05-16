@@ -3,12 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer Full Stack
 ------------------------
-Desenvolvedor Front-End com experiência em React desde 2021. Atualmente, faço parte da equipe da ED3 Digital, uma empresa especializada em e-commerce, onde desenvolvemos soluções utilizando plataformas como VTEX-io e Deco.cx.
-
-No meu dia a dia, trabalho com tecnologias como React, Tailwind, Stitches, TypeScript, JavaScript, HTML , CSS e Node.js. Tenho um papel fundamental na manutenção e aprimoramento de componentes reutilizáveis, além de contribuir para a criação de novas funcionalidades e a estilização das páginas conforme o design proposto no Figma.
-
-Sou reconhecido pela minha habilidade de comunicação e pela minha abertura para receber e incorporar feedbacks construtivos. Além disso, sou apaixonado pela área da tecnologia devido à constante oportunidade de aprendizado e crescimento.
-
+Desenvolvedor Front-End com experiência em React desde 2021. Atualmente, faço parte da equipe da Cadastra.
 
 *   🌍  I'm based in Santa Catarina, Brasil
 *   ✉️  You can contact me at [rafafriedel@hotmail.com](mailto:rafafriedel@hotmail.com)
